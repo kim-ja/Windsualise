@@ -12,10 +12,10 @@ Knowledge of coding is not necesarry - app can be utilised by people from differ
 The application inputs a data file as a .csv or .xlsx and lets user visualise big sets of raw turbine data as time series, scatter plot, wind rose and histogram.
 
 **Application functionalities:**
-- Pop-up window notifies the user about wrong input\
-- Plot Time Series, Scatter Plot, Histogram, Wind Rose\
-- Zoom/Edit/Export graphs via toolbar\
-- Change data range (Start/End date)\
-- Change sampling frequency\
+- Pop-up window notifies the user about wrong input
+- Plot Time Series, Scatter Plot, Histogram, Wind Rose
+- Zoom/Edit/Export graphs via toolbar
+- Change data range (Start/End date)
+- Change sampling frequency
 - Export the edited file as .csv or .xlsx
 
