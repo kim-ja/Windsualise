@@ -1,5 +1,5 @@
 # Windsualise
-###### Wind Turbine Data Visualisation Interface developed at University of Strathclyde, Technology &amp; Innovation Centre
+## Wind Turbine Data Visualisation Interface developed at University of Strathclyde, Technology &amp; Innovation Centre
 
 **In order to run the app, windrose package needs to be installed - https://github.com/python-windrose/windrose - To install this package with conda run following:\
 conda install -c conda-forge windrose**
@@ -10,7 +10,7 @@ Knowledge of coding is not necesarry - app can be utilised by people from differ
 
 The application inputs a data file as a .csv or .xlsx and lets user visualise big sets of raw turbine data as time series, scatter plot, wind rose and histogram.
 
-Application functionalities:
+**Application functionalities:**
 - Pop-up window notifies the user about wrong input\
 - Plot Time Series, Scatter Plot, Histogram, Wind Rose\
 - Zoom/Edit/Export graphs via toolbar\
