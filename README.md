@@ -23,6 +23,7 @@ conda install -c conda-forge windrose
 
 **To load a csv or Excel file correctly:** first row (row[0]) must contain all the variable names, and first column (column[0]) must contain timestamp/timeseries entries. All extras and inconsistent formatting **must** be deleted prior to loading the file, such as empty columns and rows that are part of the document header, or rows containing data that is not to be plotted.
 
-For an example of how the interface looks like, check About.pdf in the repository. For any enquiries, feel free to send me an email at kim.janovski.public@gmail.com
+For an example of how the interface looks like, check **About.pdf** in the repository.
+For any enquiries, feel free to send me an email at kim.janovski.public@gmail.com
 
 
