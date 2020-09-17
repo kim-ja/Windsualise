@@ -17,7 +17,8 @@ The application inputs a data file as a .csv or .xlsx and lets user visualise bi
 - Change sampling frequency
 - Export the edited file as .csv or .xlsx
 
-**In order to run the app, windrose package needs to be installed - https://github.com/python-windrose/windrose - To install this package with conda run following:\
+## **IMPORTANT**
+ **In order to run the app, windrose package needs to be installed - https://github.com/python-windrose/windrose - To install this package with conda run following:\
 conda install -c conda-forge windrose**
 
 
