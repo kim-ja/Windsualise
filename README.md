@@ -18,7 +18,9 @@ The application inputs a data file as a .csv or .xlsx and lets user visualise bi
 - Export the edited file as .csv or .xlsx
 
 ## **IMPORTANT**
- **In order to run the app, windrose package needs to be installed - https://github.com/python-windrose/windrose - To install this package with conda run following:\
-conda install -c conda-forge windrose**
+ **In order to run the app, windrose package needs to be installed - https://github.com/python-windrose/windrose** - To install this package with conda run following:\
+conda install -c conda-forge windrose
+
+**To load a csv or Excel file correctly:** first row (row[0]) must contain all the variable names, and first column (column[0]) must contain timestamp/timeseries entries. All extras, empty columns and rows that are part of the document header, or rows containing data that is not to be plotted **must** be deleted prior to loading the file.
 
 
