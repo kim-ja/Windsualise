@@ -26,6 +26,13 @@ conda install -c conda-forge windrose
 The tool can load both Excel and csv files.
 If your original file is a .csv, do not convert it to .xslx first, because in rare cases, Excel can mess up the timestamp format during the conversion.
 
-For a preview of the application, check **About.pdf** in the repository. For any enquiries, feel free to send me an email at kim.janovski.public@gmail.com
+For a preview of the application, check **About.pdf** in the repository.
+
+For any enquiries, feel free to send me an email at kim.janovski.public@gmail.com
+
+There is an executable version (.exe) available upon request, for 64bit Windows systems, that requires no
+Anaconda/Spyder. This is a little slower, but might be more convenient for some.
+Due to large size of the file, send me an email if you are interested, and I can see if it is possible to share it
+via Google Drive/OneDrive.
 
 
