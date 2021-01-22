@@ -36,3 +36,24 @@ Due to large size of the file, send me an email if you are interested, and I can
 via Google Drive/OneDrive.
 
 
+## **HOW TO USE**
+
+1) To load a csv or Excel file correctly: first row (row[0]) must contain all the variable names, and first column (column[0]) must contain index timestamp/timeseries entries. All extras and inconsistent formatting must be deleted prior to loading the file.
+
+2) The tool can load both Excel and csv files. If your original file is a .csv, do not convert it to .xslx first, Excel can mess up the format during the conversion.
+
+3) You need to specify the timestamp format of your index column (the app gives an example), to specify format that time gets stored in.
+
+4)You need to specify the name of that first, timestamp column
+
+5) Browse the file  (it might take a while to load depending on the file size), and once it is loaded, click on Load File button to proceed
+
+6) If your file takes too long to load, consider making it smaller by only extracting those data columns needed and storing them in a separate, smaller file.
+
+7) Once you have successfully loaded the data file, you will be given options to plot different types of plots, and modify them using an interactive toolbar.
+
+8) If you want to resample or change the time frame of your data, that can be done in the Time Frame settings tab. Once you have defined the new time frame / resampled your values, you MUST press Apply. Then just go back to the plot type buttons, to create the plot you need.
+
+9) If you want to go back to the initial plotting frequency, type **default** into the sampling frequency fill-box and press Apply.
+
+10) If you want to export the dataset, after resampling and modifying time frame, you MUST press Apply. Then you can press the export button.
