@@ -44,7 +44,7 @@ via Google Drive/OneDrive.
 
 3) You need to specify the timestamp format of your index column (the app gives an example), to specify format that time gets stored in.
 
-4)You need to specify the name of that first, timestamp column
+4) You need to specify the name of that first, timestamp column
 
 5) Browse the file  (it might take a while to load depending on the file size), and once it is loaded, click on Load File button to proceed
 
