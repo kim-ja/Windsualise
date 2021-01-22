@@ -7,7 +7,7 @@
 Aim was to write a graphical user interface that can simplify the process of visualising big sets of raw operational data, and remove the inital scrutiny of tinkering with the code to create quick plots.
 Knowledge of coding is not necesarry - app can be utilised by people from different backgrounds - students, researchers, industry.
 
-The application inputs a data file as a .csv or .xlsx and lets user visualise big sets of raw turbine data as time series, scatter plot, wind rose and histogram.
+The application inputs a data file as a .csv or .xlsx and lets user visualise big sets of raw data as time series, scatter plot, wind rose and histogram.
 
 **Application functionalities:**
 - Pop-up window notifies the user about wrong input
