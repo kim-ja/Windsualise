@@ -55,4 +55,4 @@ via Google Drive/OneDrive.
 
 9) If you want to go back to the initial plotting frequency, type **default** into the sampling frequency fill-box and press Apply.
 
-10) If you want to export the dataset, after resampling and modifying time frame, you MUST press Apply. Then you can press the export button.
+10) If you want to export the dataset, after resampling and modifying time frame, you MUST press Apply. Then you can press the Export button.
